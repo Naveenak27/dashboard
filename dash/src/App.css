@@ -1,0 +1,21 @@
+/* styles.css or a similar CSS file */
+.ant-layout-sider {
+    background-color: black !important; /* Black background for Sider */
+  }
+  
+  .ant-menu-dark {
+    background-color: black !important; /* Black background for Menu */
+  }
+  
+  .ant-menu-dark .ant-menu-item {
+    color: white !important; /* White font color for Menu items */
+  }
+  
+  .ant-menu-dark .ant-menu-item:hover {
+    background-color: #333 !important; /* Optional: Darker background on hover */
+  }
+  
+  .ant-menu-dark .ant-menu-item-selected {
+    background-color: #444 !important; /* Optional: Darker background for selected item */
+  }
+  
